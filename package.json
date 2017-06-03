@@ -1,6 +1,6 @@
 {
-  "name": "bootbot",
-  "version": "1.0.12",
+  "name": "bootbot-dobro",
+  "version": "1.0.16",
   "description": "Facebook Messenger Bot Framework",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Charca/bootbot.git"
+    "url": "git+https://github.com/andreynazarov3/bootbot"
   },
   "keywords": [
     "messenger",
@@ -19,12 +19,12 @@
     "bot",
     "facebook"
   ],
-  "author": "Maxi Ferreira <charca@gmail.com>",
+  "author": "Dobro Agency",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Charca/bootbot/issues"
+    "url": "https://github.com/andreynazarov3/bootbot/issues"
   },
-  "homepage": "https://github.com/Charca/bootbot#readme",
+  "homepage": "https://github.com/andreynazarov3/bootbot#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "config": "^1.21.0",
